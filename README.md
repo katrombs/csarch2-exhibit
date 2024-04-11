@@ -4,6 +4,6 @@
 
 ## Contents
 - This link includes all our assets used during the exhibit.
-- <u>Pre-exhibit video</u> contains the information on the items displayed during our exhibit.
-- <u>Posters</u> for each main item group is also added into the Google Drive.
-- <u>Folders</u> include the raw videos/images taken before, during, and after the exhibit.
+- <ins>Pre-exhibit video</ins> contains the information on the items displayed during our exhibit.
+- <ins>Posters</ins> for each main item group is also added into the Google Drive.
+- <ins>Folders</ins> include the raw videos/images taken before, during, and after the exhibit.
