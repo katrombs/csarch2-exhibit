@@ -7,3 +7,4 @@
 - <ins>Pre-exhibit video</ins> contains the information on the items displayed during our exhibit.
 - <ins>Posters</ins> for each main item group is also added into the Google Drive.
 - <ins>Folders</ins> include the raw videos/images taken before, during, and after the exhibit.
+- <ins>Google Docs task tracker</ins> also included in the drive.
